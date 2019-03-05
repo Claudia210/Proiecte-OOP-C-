@@ -454,7 +454,7 @@ int main()
     cout<<"4.Adaugare elemnt in coada simpla!"<<endl;
     cout<<"5.Stergere element din coada simpla!"<<endl;
     cout<<"6.Afiseaza coada simpla!"<<endl;
-    cout<<"7.Terminarea programului"<<endl;
+    cout<<"7.Terminarea programului!"<<endl;
 
 
     do
